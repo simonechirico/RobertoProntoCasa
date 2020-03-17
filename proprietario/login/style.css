@@ -1,0 +1,44 @@
+body {
+	font-family: Montserrat;
+}
+.btn {
+	color: #3c3c3b;
+    background-color: #fff;
+}
+.content-form {
+	display: block;
+	width: 50%;
+}
+.content-name, .content-surname {
+	float: left;
+	width: 48.5%;
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid black, white;
+}
+.content-gen {
+	width: 99%;
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid black, white;
+}
+.inner {
+	width: 96.6%;
+	margin-left: 5px;
+	padding-left: 13px;
+	font-size: 0.8em;
+	border: 1px solid grey;
+}
+.content-city {
+	float: left;
+	width: 49%;
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid black, white;
+}
+.content-prov, .content-cap {
+	width: 22.5%;
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid black, white;
+}
